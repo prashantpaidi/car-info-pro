@@ -1,4 +1,4 @@
-# car Info Pro
+# Car Info Pro
 
 This is a [Next.js](https://nextjs.org/) webapp to display info about car .
 
